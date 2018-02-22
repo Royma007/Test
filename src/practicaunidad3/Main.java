@@ -21,7 +21,7 @@ public class Main {
         cuentita = new Account("Pepa Santana","3333-1111-99-123456789",200);
         
         operar(cuentita, 251, 's'); 
-        operar(cuentita, 1010, 'i');
+        operar(cuentita, 1011, 'i');
     }
 
     private static void operar(Account cuentita, double cantidad, char tipo_operacion) {
