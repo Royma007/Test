@@ -20,7 +20,7 @@ public class Main {
         
         cuentita = new Account("Pepa Santana","3333-1111-99-123456789",200);
         
-        operar(cuentita, 250, 's'); 
+        operar(cuentita, 251, 's'); 
         operar(cuentita, 1000, 'i');
     }
 
