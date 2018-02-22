@@ -30,7 +30,7 @@ public class Main {
             
         {   
             if(tipo_operacion=='s')
-            cuentita.sacar(-100);
+            cuentita.sacar(-99);
         } catch (Exception e)
         {
             System.err.println(e.getMessage());
